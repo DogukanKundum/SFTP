@@ -1,4 +1,4 @@
-package common.utils.sftp;
+package sftp;
 
 public class InfinItException extends Exception {
     public InfinItException() {
