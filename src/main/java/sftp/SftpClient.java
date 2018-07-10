@@ -1,4 +1,4 @@
-package tr.com.argela.sebu.common.utils.sftp;
+package sftp;
 
 import com.jcraft.jsch.*;
 import org.slf4j.Logger;
