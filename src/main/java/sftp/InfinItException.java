@@ -1,4 +1,4 @@
-package tr.com.argela.sebu.common.utils.sftp;
+package common.utils.sftp;
 
 public class InfinItException extends Exception {
     public InfinItException() {
